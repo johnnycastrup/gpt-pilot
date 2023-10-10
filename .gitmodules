@@ -1,0 +1,3 @@
+[submodule "submodules/poetry-add-requirements.txt"]
+	path = submodules/poetry-add-requirements.txt
+	url = https://github.com/tddschn/poetry-add-requirements.txt.git
